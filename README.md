@@ -6,11 +6,11 @@ In this repository i will be creating visualisations using *Matplotlib, Seaborn,
 <span style="color:red">This is a personal rough sheet </span>
 
 
-In the ['practice.ipynb'](practice.ipynb) i carried out exploratory Data Analysis using python tools like *Pandas, Matplotlib, and Seaborn* on the Automobile sales data of a company from 1980 to 2023. 
+In the [notebook](analysis.ipynb) i carried out exploratory Data Analysis using python tools like *Pandas, Matplotlib, and Seaborn* on the Automobile sales data of a company from 1980 to 2023. 
 >I investiaged the following:
 > * The impact of unemployment on Sales 
 > * The impact of recession on sales. 
-> * Also to measure the seasonality impact on sales.
+> * Also to measure the seasonality impact on sal
 > * I also checked how each vehicle type faired during different seasons, <b>Recession and Non Recession</b> 
 > * Amount of money spent on Advertisement in both periods and also which Vehicle type
 
