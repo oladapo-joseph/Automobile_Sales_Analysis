@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
 
 import dash
 from dash import dcc, html
@@ -152,7 +150,7 @@ def update_output_container(input_year, stat_type):
                                         title= 'Expenditure on each vehicle'))
                             
 
-#TASK 2.6: Returning the graphs for displaying Yearly data
+
         return [
             html.Div(className='chart-item', children=[html.Div(children=chart1),html.Div(children=chart2)]),
             html.Div(className='chart-item', children=[html.Div(children=chart3),html.Div(children=chart4)])
